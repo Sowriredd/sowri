@@ -1,0 +1,33 @@
+
+.main
+{
+    text-align:center;
+    font-family:"robotic";
+    font-style:italic;
+    font-weight:bold;
+    text-decoration:linethrough;
+	
+}
+.paragraph{
+    background-color:red;
+    text-align:center;
+    font-family:"caveat";
+    font-style:normal;
+    font-weight:bold;
+    text-decoration:linethrough;
+
+}
+.card
+{
+    background-image: url("https://media.istockphoto.com/id/1428421343/photo/landscape-sunset-scene-on-the-west-coast-of-ireland-with-last-light-shining-through-storm.jpg?s=1024x1024&w=is&k=20&c=03ZCzGW5TMw2ZHJeEG3RjaWs7asBM3k0Cr_Kc64wq3U=");
+    height:100vh;
+    width:100vh;
+    background-size:cover;
+}
+.bg
+{
+    text-align:center;
+    background-color: white;
+    padding:30px;
+    border-top-left-radius:35px;
+}
